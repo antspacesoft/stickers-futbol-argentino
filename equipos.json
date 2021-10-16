@@ -1,0 +1,84 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.superliga",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"riverplate2020",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"bocajuniors2020",
+         "name":"Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"colon2020",
+         "name":"Colon",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"estudianteslp2020",
+         "name":"Estudiantes LP",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"gimnasialp2020",
+         "name":"Gimnasia LP",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"huracan2020",
+         "name":"Huracan",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"independiente2020",
+         "name":"Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"newells2020",
+         "name":"Newells Old Boys",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"racing2020",
+         "name":"Racing Club",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"rosariocentral2020",
+         "name":"Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2020",
+         "name":"San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"union2020",
+         "name":"Union",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"velez2020",
+         "name":"Velez Sarsfield",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}
