@@ -2,5 +2,47 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.superliga",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"carlosizquierdoz",
+         "name":"Carlos Izquierdoz",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"enzoperez",
+         "name":"Enzo Perez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"josesand",
+         "name":"Jose Sand",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lichalopez",
+         "name":"Licha Lopez",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nestorortigoza",
+         "name":"Nestor Ortigoza",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"silvioromero",
+         "name":"Silvio Romero",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"papugomez",
+         "name":"Papu Gomez",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      }
    ]
 }
