@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sebastianvilla",
+         "name":"Sebastian Villa",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"paulodiaz",
+         "name":"Paulo Diaz",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"julianalvarez",
          "name":"Julian Alvarez",
          "animated_sticker_pack":false,
