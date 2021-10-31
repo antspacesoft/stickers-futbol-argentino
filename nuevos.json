@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2021f19d2",
+         "name":"Fecha 19 Dia 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2021f19d1",
+         "name":"Fecha 19 Dia 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"sebastianvilla",
          "name":"Sebastian Villa",
          "animated_sticker_pack":false,
