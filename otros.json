@@ -2,5 +2,17 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.superliga",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"gol2021a1",
+         "name":"Gol Animado (1)",
+         "animated_sticker_pack":true,
+         "stickers":"28"
+      },
+      {
+         "identifier":"gol2021a2",
+         "name":"Gol Animado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"27"
+      }
    ]
 }

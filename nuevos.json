@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gol2021a1",
+         "name":"Gol Animado (1)",
+         "animated_sticker_pack":true,
+         "stickers":"28"
+      },
+      {
+         "identifier":"gol2021a2",
+         "name":"Gol Animado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2021f20d3",
+         "name":"Fecha 20 Dia 3",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"lpf2021f20d2",
          "name":"Fecha 20 Dia 2",
          "animated_sticker_pack":false,
