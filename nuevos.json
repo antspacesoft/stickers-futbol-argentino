@@ -2,13 +2,19 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.superliga",
    "ios_app_store_link":"",
    "sticker_packs":[
-     {
+      {
+         "identifier":"lpf2021f22a1",
+         "name":"Fecha 22 Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
          "identifier":"idolosracing1b",
          "name":"Idolos Racing",
          "animated_sticker_pack":false,
          "stickers":"26"
-     },
-     {
+      },
+      {
          "identifier":"lpf2021f21a1",
          "name":"Fecha 21 Animados 1",
          "animated_sticker_pack":true,
