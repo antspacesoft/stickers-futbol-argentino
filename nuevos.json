@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2021f22a2",
+         "name":"Fecha 22 Animados 2",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
          "identifier":"lpf2021f22a1",
          "name":"Fecha 22 Animados 1",
          "animated_sticker_pack":true,
