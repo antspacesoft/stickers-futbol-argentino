@@ -3,22 +3,28 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2021f22d2",
+         "name":"Fecha 22 Dia 2",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"lpf2021f22a2",
          "name":"Fecha 22 Animados 2",
          "animated_sticker_pack":true,
          "stickers":"8"
       },
       {
-         "identifier":"lpf2021f22a1",
-         "name":"Fecha 22 Animados 1",
-         "animated_sticker_pack":true,
-         "stickers":"17"
-      },
-      {
          "identifier":"lpf2021f22d1",
          "name":"Fecha 22 Dia 1",
          "animated_sticker_pack":false,
          "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f22a1",
+         "name":"Fecha 22 Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"17"
       },
       {
          "identifier":"idolosracing1b",
