@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitoscolon",
+         "name":"Cantitos Colon",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosunion",
+         "name":"Cantitos Union",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"gol2021a1",
          "name":"Gol Animado (1)",
          "animated_sticker_pack":true,
