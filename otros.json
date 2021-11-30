@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitosriverplate",
+         "name":"Cantitos River",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"cantitosracingclub",
+         "name":"Cantitos Racing",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"diahinchadesanlorenzo",
          "name":"Hincha San Lorenzo",
          "animated_sticker_pack":false,
