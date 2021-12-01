@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitosindependiente",
+         "name":"Cantitos Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosvelez",
+         "name":"Cantitos Velez",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"lpf2021f23d4",
          "name":"Fecha 23 Dia 4",
          "animated_sticker_pack":false,
