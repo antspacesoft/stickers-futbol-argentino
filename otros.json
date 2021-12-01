@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitossanlorenzo",
+         "name":"Cantitos San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosbocajuniors",
+         "name":"Cantitos Boca Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
          "identifier":"cantitosriverplate",
          "name":"Cantitos River",
          "animated_sticker_pack":false,
