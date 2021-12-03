@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitosaldosivi",
+         "name":"Cantitos Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitostalleres",
+         "name":"Cantitos Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"cantitosindependiente",
          "name":"Cantitos Independiente",
          "animated_sticker_pack":false,
