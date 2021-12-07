@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitoslanus",
+         "name":"Cantitos Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitoshuracan",
+         "name":"Cantitos Huracan",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"cantitosestudianteslp",
          "name":"Cantitos Estudiants LP",
          "animated_sticker_pack":false,

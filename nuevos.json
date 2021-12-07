@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2021f24d4",
+         "name":"Fecha 24 Dia 4",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"cantitoslanus",
+         "name":"Cantitos Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitoshuracan",
+         "name":"Cantitos Huracan",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"lpf2021f24d3",
          "name":"Fecha 24 Dia 3",
          "animated_sticker_pack":false,
