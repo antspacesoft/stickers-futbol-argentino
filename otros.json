@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitosargentinos",
+         "name":"Cantitos Argentinos Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgimnasialp",
+         "name":"Cantitos Gimnasia LP",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgodoycruz",
+         "name":"Cantitos Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosrosariocentral",
+         "name":"Cantitos Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"cantitoslanus",
          "name":"Cantitos Lanus",
          "animated_sticker_pack":false,

@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaargentina2021w1",
+         "name":"Boca Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"copaargentina2021f1",
+         "name":"Boca vs Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"cantitosargentinos",
+         "name":"Cantitos Argentinos Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgimnasialp",
+         "name":"Cantitos Gimnasia LP",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgodoycruz",
+         "name":"Cantitos Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosrosariocentral",
+         "name":"Cantitos Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"lpf2021f24d4",
          "name":"Fecha 24 Dia 4",
          "animated_sticker_pack":false,
