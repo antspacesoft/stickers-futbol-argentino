@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"cantitosplatense",
+         "name":"Cantitos Platense",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitoscentralcordoba",
+         "name":"Cantitos Central Cordoba",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosnewells",
+         "name":"Cantitos Newells",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitospatronato",
+         "name":"Cantitos Patronato",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitossarmiento",
+         "name":"Cantitos Sarmiento",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosbanfield",
+         "name":"Cantitos Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
          "identifier":"cantitosargentinos",
          "name":"Cantitos Argentinos Jrs",
          "animated_sticker_pack":false,
