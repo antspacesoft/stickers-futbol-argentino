@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"torneocampeones2021a",
+         "name":"River Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"torneocampeones2021b",
+         "name":"River Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"diahinchadeboca",
          "name":"Hincha Boca",
          "animated_sticker_pack":false,

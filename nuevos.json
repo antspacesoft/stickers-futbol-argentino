@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"torneocampeones2021a",
+         "name":"River Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"torneocampeones2021b",
+         "name":"River Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"lpf2021f25d3",
          "name":"Fecha 25 Dia 3",
          "animated_sticker_pack":false,
