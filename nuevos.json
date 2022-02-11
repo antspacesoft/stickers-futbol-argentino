@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaligaprofesional2022f1",
+         "name":"Fecha 1 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"eliminatoriasqatarf16",
          "name":"Eliminatorias F16",
          "animated_sticker_pack":false,
@@ -40,25 +46,25 @@
       },
       {
          "identifier":"lpf2021f25d3",
-         "name":"Fecha 25 Dia 3",
+         "name":"Fecha 25 Día 3",
          "animated_sticker_pack":false,
          "stickers":"22"
       },
       {
-         "identifier":"diahinchadeboca",
+         "identifier":"Díahinchadeboca",
          "name":"Hincha Boca",
          "animated_sticker_pack":false,
          "stickers":"12"
       },
       {
          "identifier":"lpf2021f25d2",
-         "name":"Fecha 25 Dia 2",
+         "name":"Fecha 25 Día 2",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f25d1",
-         "name":"Fecha 25 Dia 1",
+         "name":"Fecha 25 Día 1",
          "animated_sticker_pack":false,
          "stickers":"20"
       },
@@ -148,7 +154,7 @@
       },
       {
          "identifier":"lpf2021f24d4",
-         "name":"Fecha 24 Dia 4",
+         "name":"Fecha 24 Día 4",
          "animated_sticker_pack":false,
          "stickers":"20"
       },
@@ -166,25 +172,25 @@
       },
       {
          "identifier":"lpf2021f24d3",
-         "name":"Fecha 24 Dia 3",
+         "name":"Fecha 24 Día 3",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f24d2",
-         "name":"Fecha 24 Dia 2",
+         "name":"Fecha 24 Día 2",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f24d1",
-         "name":"Fecha 24 Dia 1",
+         "name":"Fecha 24 Día 1",
          "animated_sticker_pack":false,
          "stickers":"23"
       },
       {
-         "identifier":"cantitosestudianteslp",
-         "name":"Cantitos Estudiants LP",
+         "identifier":"cantitosestuDíanteslp",
+         "name":"Cantitos EstuDíants LP",
          "animated_sticker_pack":false,
          "stickers":"8"
       },
@@ -226,7 +232,7 @@
       },
       {
          "identifier":"lpf2021f23d4",
-         "name":"Fecha 23 Dia 4",
+         "name":"Fecha 23 Día 4",
          "animated_sticker_pack":false,
          "stickers":"23"
       },
@@ -243,14 +249,14 @@
          "stickers":"10"
       },
       {
-         "identifier":"diahinchadesanlorenzo",
+         "identifier":"Díahinchadesanlorenzo",
          "name":"Hincha San Lorenzo",
          "animated_sticker_pack":false,
          "stickers":"9"
       },
       {
          "identifier":"lpf2021f23d3",
-         "name":"Fecha 23 Dia 3",
+         "name":"Fecha 23 Día 3",
          "animated_sticker_pack":false,
          "stickers":"29"
       },
@@ -274,7 +280,7 @@
       },
       {
          "identifier":"lpf2021f23d2",
-         "name":"Fecha 23 Dia 2",
+         "name":"Fecha 23 Día 2",
          "animated_sticker_pack":false,
          "stickers":"16"
       },
@@ -292,7 +298,7 @@
       },
       {
          "identifier":"lpf2021f23d1",
-         "name":"Fecha 23 Dia 1",
+         "name":"Fecha 23 Día 1",
          "animated_sticker_pack":false,
          "stickers":"16"
       },
@@ -304,13 +310,13 @@
       },
       {
          "identifier":"lpf2021f22d3",
-         "name":"Fecha 22 Dia 3",
+         "name":"Fecha 22 Día 3",
          "animated_sticker_pack":false,
          "stickers":"25"
       },
       {
          "identifier":"lpf2021f22d2",
-         "name":"Fecha 22 Dia 2",
+         "name":"Fecha 22 Día 2",
          "animated_sticker_pack":false,
          "stickers":"14"
       },
@@ -322,7 +328,7 @@
       },
       {
          "identifier":"lpf2021f22d1",
-         "name":"Fecha 22 Dia 1",
+         "name":"Fecha 22 Día 1",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -352,25 +358,25 @@
       },
       {
          "identifier":"lpf2021f21d4",
-         "name":"Fecha 21 Dia 4",
+         "name":"Fecha 21 Día 4",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f21d3",
-         "name":"Fecha 21 Dia 3",
+         "name":"Fecha 21 Día 3",
          "animated_sticker_pack":false,
          "stickers":"22"
       },
       {
          "identifier":"lpf2021f21d2",
-         "name":"Fecha 21 Dia 2",
+         "name":"Fecha 21 Día 2",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
       {
          "identifier":"lpf2021f21d1",
-         "name":"Fecha 21 Dia 1",
+         "name":"Fecha 21 Día 1",
          "animated_sticker_pack":false,
          "stickers":"13"
       },
@@ -394,7 +400,7 @@
       },
       {
          "identifier":"lpf2021f20d4",
-         "name":"Fecha 20 Dia 4",
+         "name":"Fecha 20 Día 4",
          "animated_sticker_pack":false,
          "stickers":"21"
       },
@@ -412,19 +418,19 @@
       },
       {
          "identifier":"lpf2021f20d3",
-         "name":"Fecha 20 Dia 3",
+         "name":"Fecha 20 Día 3",
          "animated_sticker_pack":false,
          "stickers":"29"
       },
       {
          "identifier":"lpf2021f20d2",
-         "name":"Fecha 20 Dia 2",
+         "name":"Fecha 20 Día 2",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
       {
          "identifier":"lpf2021f20d1",
-         "name":"Fecha 20 Dia 1",
+         "name":"Fecha 20 Día 1",
          "animated_sticker_pack":false,
          "stickers":"22"
       },
@@ -436,25 +442,25 @@
       },
       {
          "identifier":"lpf2021f19d4",
-         "name":"Fecha 19 Dia 4",
+         "name":"Fecha 19 Día 4",
          "animated_sticker_pack":false,
          "stickers":"11"
       },
       {
          "identifier":"lpf2021f19d3",
-         "name":"Fecha 19 Dia 3",
+         "name":"Fecha 19 Día 3",
          "animated_sticker_pack":false,
          "stickers":"26"
       },
       {
          "identifier":"lpf2021f19d2",
-         "name":"Fecha 19 Dia 2",
+         "name":"Fecha 19 Día 2",
          "animated_sticker_pack":false,
          "stickers":"27"
       },
       {
          "identifier":"lpf2021f19d1",
-         "name":"Fecha 19 Dia 1",
+         "name":"Fecha 19 Día 1",
          "animated_sticker_pack":false,
          "stickers":"16"
       },
@@ -465,26 +471,26 @@
          "stickers":"15"
       },
       {
-         "identifier":"paulodiaz",
-         "name":"Paulo Diaz",
+         "identifier":"pauloDíaz",
+         "name":"Paulo Díaz",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
       {
          "identifier":"lpf2021f18d3",
-         "name":"Fecha 18 Dia 3",
+         "name":"Fecha 18 Día 3",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f18d2",
-         "name":"Fecha 18 Dia 2",
+         "name":"Fecha 18 Día 2",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f18d1",
-         "name":"Fecha 18 Dia 1",
+         "name":"Fecha 18 Día 1",
          "animated_sticker_pack":false,
          "stickers":"20"
       },
@@ -496,19 +502,19 @@
       },
       {
          "identifier":"lpf2021f17d3",
-         "name":"Fecha 17 Dia 3",
+         "name":"Fecha 17 Día 3",
          "animated_sticker_pack":false,
          "stickers":"23"
       },
       {
          "identifier":"lpf2021f17d2",
-         "name":"Fecha 17 Dia 2",
+         "name":"Fecha 17 Día 2",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
          "identifier":"lpf2021f17d1",
-         "name":"Fecha 17 Dia 1",
+         "name":"Fecha 17 Día 1",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -597,14 +603,14 @@
          "stickers":"21"
       },
       {
-         "identifier":"estudianteslp2021",
-         "name":"Estudiantes LP 2021",
+         "identifier":"estuDíanteslp2021",
+         "name":"EstuDíantes LP 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
       {
-         "identifier":"estudianteslp2021",
-         "name":"Estudiantes LP 2021",
+         "identifier":"estuDíanteslp2021",
+         "name":"EstuDíantes LP 2021",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -723,8 +729,8 @@
          "stickers":"27"
       },
       {
-         "identifier":"estudianteslp2020",
-         "name":"Estudiantes LP 2020",
+         "identifier":"estuDíanteslp2020",
+         "name":"EstuDíantes LP 2020",
          "animated_sticker_pack":false,
          "stickers":"24"
       },
