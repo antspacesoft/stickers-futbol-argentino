@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaligaprofesional2022f3d3",
+         "name":"Fecha 3 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"copaligaprofesional2022f3d2c",
          "name":"Fecha 3 Día 2",
          "animated_sticker_pack":false,
