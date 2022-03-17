@@ -3,6 +3,78 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"argentinosjuniors2022",
+         "name":"Argentinos Jrs 2022",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"banfield2022",
+         "name":"Banfield 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"defensayjusticia2022",
+         "name":"Defensa y Justicia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"godoycruz2021a",
+         "name":"Godoy Cruz 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"godoycruz2021b",
+         "name":"Godoy Cruz 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"newells2022",
+         "name":"Newells Old Boys 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"racing2022a",
+         "name":"Racing Club 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"racing2022b",
+         "name":"Racing Club 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"sarmiento2022",
+         "name":"Sarmiento 2022",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"talleres2022a",
+         "name":"Talleres 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"talleres2022b",
+         "name":"Talleres 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"union2022",
+         "name":"Union 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"copaligaprofesional2022f6d4",
          "name":"Fecha 6 Día 4",
          "animated_sticker_pack":false,
