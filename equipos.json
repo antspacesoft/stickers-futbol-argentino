@@ -3,6 +3,42 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"arsenal2022",
+         "name":"Arsenal 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"atleticotucuman2022",
+         "name":"Atletico Tucuman 2022",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"barracascentral2022a",
+         "name":"Barracas Central 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"barracascentral2022b",
+         "name":"Barracas Central 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lanus2022",
+         "name":"Lanus 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"patronato2022",
+         "name":"Patronato 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"argentinosjuniors2022",
          "name":"Argentinos Jrs 2022",
          "animated_sticker_pack":false,
