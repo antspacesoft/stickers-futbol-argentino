@@ -3,10 +3,52 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaligaprofesional2022f8d1",
+         "name":"Fecha 8 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"qatar2022a",
          "name":"Sorteo Mundial",
          "animated_sticker_pack":false,
          "stickers":"13"
+      },
+      {
+         "identifier":"colon2022",
+         "name":"Colon 2022",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gimnasialp2021",
+         "name":"Gimnasia LP 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"huracan2022",
+         "name":"Huracan 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"platense2022",
+         "name":"Platense 2022",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"tigre2022",
+         "name":"Tigre 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"velez2022",
+         "name":"Velez 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
       },
       {
          "identifier":"eliminatoriasqatarf18",
