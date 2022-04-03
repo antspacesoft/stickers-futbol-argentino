@@ -3,10 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+<<<<<<< HEAD
          "identifier":"copaligaprofesional2022f8d1",
          "name":"Fecha 8 Día 1",
          "animated_sticker_pack":false,
          "stickers":"30"
+=======
+         "identifier":"copaligaprofesional2022f8d2",
+         "name":"Fecha 8 Dia 2",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+>>>>>>> 025ed15ae4e758c3da3b16672e34e195d1a8488d
       },
       {
          "identifier":"copaligaprofesional2022f7d5",
