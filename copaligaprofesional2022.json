@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copaligaprofesional2022cf4",
+         "name":"River vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022cf3",
+         "name":"Estudiantes vs Argentinos",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"copaligaprofesional2022cf2",
          "name":"Boca vs Defensa",
          "animated_sticker_pack":false,
