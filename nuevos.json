@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "identifier":"lpf2022f2d3",
+         "name":"Fecha 3 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f2d3",
          "name":"Fecha 2 Día 3",
          "animated_sticker_pack":false,
          "stickers":"30"
