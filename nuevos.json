@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2022f22d3",
+         "name":"Fecha 22 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"lpf2022f22d2",
          "name":"Fecha 22 Día 2",
          "animated_sticker_pack":false,
