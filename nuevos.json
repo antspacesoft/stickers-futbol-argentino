@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"gallardoadios1",
+         "name":"Adiós Gallardo",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2022f25d3",
+         "name":"Fecha 25 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"lpf2022f25d3",
          "name":"Fecha 25 Día 3",
          "animated_sticker_pack":false,
