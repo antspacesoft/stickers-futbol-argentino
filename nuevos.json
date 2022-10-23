@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"lpf2022w1",
+         "name":"Boca Campeón LPF 2022",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2022f27d2",
+         "name":"Fecha 27 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"lpf2022f27d1",
          "name":"Fecha 27 Día 1",
          "animated_sticker_pack":false,
