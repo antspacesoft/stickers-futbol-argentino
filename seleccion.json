@@ -3,6 +3,60 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022angelcorrea",
+         "name":"Angel Correa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022enzofernandez",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022exequielpalacios",
+         "name":"Exequiel Palacios",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022francoarmani",
+         "name":"Franco Armani",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022geronimorulli",
+         "name":"Geronimo Rulli",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022guidorodriguez",
+         "name":"Guido Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }, 
+      {
+         "identifier":"worldcup2022juanfoyth",
+         "name":"Juan Foyth",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }, 
+      {
+         "identifier":"worldcup2022julianalvarez",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }, 
+      {
+         "identifier":"worldcup2022thiagoalmada",
+         "name":"Thiago Almada",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },    
+      {
          "identifier":"worldcup2022GCargentinavssaudiarabia",
          "name":"Argentina vs Arabia Saudita",
          "animated_sticker_pack":false,
