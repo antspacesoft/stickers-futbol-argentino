@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022ARgol",
+         "name":"Argentina Gol",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022ARGanimados",
+         "name":"Argentina Animados",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"worldcup2022angelcorrea",
          "name":"Angel Correa",
          "animated_sticker_pack":false,
