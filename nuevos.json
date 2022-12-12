@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diahinchaboca",
+         "name":"Hincha Boca",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"worldcup2022q2e",
          "name":"Argentina vs Holanda (5)",
          "animated_sticker_pack":false,
@@ -1496,12 +1502,6 @@
          "name":"Fecha 25 Día 3",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },
-      {
-         "identifier":"Díahinchadeboca",
-         "name":"Hincha Boca",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"lpf2021f25d2",

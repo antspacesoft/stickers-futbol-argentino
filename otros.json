@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"diahinchaboca",
+         "name":"Hincha Boca",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"gallardoadios1",
          "name":"Adiós Gallardo",
          "animated_sticker_pack":false,
@@ -37,12 +43,6 @@
          "name":"River Campeón (2)",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },
-      {
-         "identifier":"diahinchadeboca",
-         "name":"Hincha Boca",
-         "animated_sticker_pack":false,
-         "stickers":"12"
       },
       {
          "identifier":"cantitosatleticotucuman",
