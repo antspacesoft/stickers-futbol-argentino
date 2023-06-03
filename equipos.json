@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"escudosa1",
+         "name":"Escudos (1)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"escudosa2",
+         "name":"Escudos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
          "identifier":"colon2022",
          "name":"Colon 2022",
          "animated_sticker_pack":false,
