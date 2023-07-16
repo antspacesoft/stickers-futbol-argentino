@@ -3,8 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"2023rivercampeon1",
-         "name":"River Campeón LPF 23",
+         "identifier":"memesriver3",
+         "name":"Memes River",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"lpf2023w2",
+         "name":"River Campeón LPF 23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },  
+      {
+         "identifier":"lpf2023w1",
+         "name":"River Campeón LPF 23 (1)",
          "animated_sticker_pack":false,
          "stickers":"20"
       },      
