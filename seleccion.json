@@ -9,6 +9,12 @@
          "stickers":"30"
       },
       {
+         "identifier":"golseleccion2024",
+         "name":"Gol Selección",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"copaamerica2024fg3",
          "name":"Copa América vs Peru",
          "animated_sticker_pack":false,
