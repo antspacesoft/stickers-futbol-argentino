@@ -1,0 +1,2550 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.superliga",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"copaamerica2024w1",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copaamerica2024w2",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copaamerica2024f1",
+         "name":"Argentina Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024s1",
+         "name":"Copa América vs Canada",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024o1",
+         "name":"Copa América vs Ecuador",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"golseleccion2024",
+         "name":"Gol Selección",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaamerica2024fg3",
+         "name":"Copa América vs Peru",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024fg2",
+         "name":"Copa América vs Chile",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaamerica2024fg1",
+         "name":"Copa América vs Canada",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"seleccion2024a",
+         "name":"Selección Argentina (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"seleccion2024b",
+         "name":"Selección Argentina (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"dibumartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"camiseta2024a",
+         "name":"Camiseta Arg 2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"2024rivervsboca1",
+         "name":"River Plate vs Boca Jrs 2024",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"diahinchaboca",
+         "name":"Día del Hincha Boca",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"aniversario5",
+         "name":"Madrid 5 Años",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"huracan2023",
+         "name":"Huracan 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"velez2023",
+         "name":"Velez Sarsfield 2023",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"eliminatorias2026f6",
+         "name":"vs Brasil",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"messiballondor2023",
+         "name":"Messi Ballon Oro 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"emilianomartinez1",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"2023bocajrsvsriverplate1",
+         "name":"River Plate vs Boca Jrs (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"2023bocajrsvsriverplate2",
+         "name":"River Plate vs Boca Jrs (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"riverplate2023",
+         "name":"River Plate 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2023",
+         "name":"Boca Juniors 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"racingclub2023",
+         "name":"Racing Club 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"independiente2023",
+         "name":"Independiente 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2023",
+         "name":"San Lorenzo 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eliminatorias2026f1a",
+         "name":"Argentina vs Ecuador",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"cavaniboca1",
+         "name":"Cavani Boca",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"memesriver3",
+         "name":"Memes River",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"lpf2023w2",
+         "name":"River Campeón LPF 23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2023w1",
+         "name":"River Campeón LPF 23 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"escudosa1",
+         "name":"Escudos (1)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"escudosa2",
+         "name":"Escudos (2)",
+         "animated_sticker_pack":true,
+         "stickers":"20"
+      },
+      {
+         "identifier":"diahincharacing",
+         "name":"Día del Hincha Racing",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"goleadores2023",
+         "name":"Goleadores 2023",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w10",
+         "name":"Argentina Campeón (10)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w11",
+         "name":"Argentina Campeón (11)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w12",
+         "name":"Argentina Campeón (12)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w9",
+         "name":"Argentina Campeón (9)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w8",
+         "name":"Argentina Campeón (8)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w7",
+         "name":"Argentina Campeón (7)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022w6",
+         "name":"Argentina Campeón (6)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w5",
+         "name":"Argentina Campeón (5)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022w4",
+         "name":"Argentina Campeón (4)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022w3",
+         "name":"Argentina Campeón (3)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w2",
+         "name":"Argentina Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022w1",
+         "name":"Argentina Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022s1a",
+         "name":"Argentina vs Croacia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022s1b",
+         "name":"Argentina vs Croacia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022s1c",
+         "name":"Argentina vs Croacia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"worldcup2022q2e",
+         "name":"Argentina vs Holanda (5)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2a",
+         "name":"Argentina vs Holanda (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2b",
+         "name":"Argentina vs Holanda (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022q2c",
+         "name":"Argentina vs Holanda (3)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022q2d",
+         "name":"Argentina vs Holanda (4)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"worldcup2022o2a",
+         "name":"Argentina vs Australia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o2b",
+         "name":"Argentina vs Australia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022o2c",
+         "name":"Argentina vs Australia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina1",
+         "name":"Argentina vs Polonia (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina2",
+         "name":"Argentina vs Polonia (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCpolandvsargentina3",
+         "name":"Argentina vs Polonia (3)",
+         "animated_sticker_pack":true,
+         "stickers":"7"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico1",
+         "name":"Argentina vs Mexico (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico2",
+         "name":"Argentina vs Mexico (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico3",
+         "name":"Argentina vs Mexico (3)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022ARgol",
+         "name":"Argentina Gol",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022ARGanimados",
+         "name":"Argentina Animados",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022angelcorrea",
+         "name":"Angel Correa",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022enzofernandez",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022exequielpalacios",
+         "name":"Exequiel Palacios",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022francoarmani",
+         "name":"Franco Armani",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022geronimorulli",
+         "name":"Geronimo Rulli",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022guidorodriguez",
+         "name":"Guido Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022juanfoyth",
+         "name":"Juan Foyth",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022julianalvarez",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022thiagoalmada",
+         "name":"Thiago Almada",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavssaudiarabia",
+         "name":"Argentina vs Arabia Saudita",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022argentina2",
+         "name":"Argentina Qatar 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022argentina3",
+         "name":"Argentina Qatar 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022alexismacallister",
+         "name":"Alexis Mac Allister",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022angeldimaria",
+         "name":"Angel Di Maria",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022cutiromero",
+         "name":"Cuti Romero",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022dibumartinez",
+         "name":"Dibu Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022germanpezzella",
+         "name":"German Pezella",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022gonzalomontiel",
+         "name":"Gonzalo Montiel",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022lautaromartinez",
+         "name":"Lautaro Martinez",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022leandroparedes",
+         "name":"Leandro Paredes",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"worldcup2022leomessi3",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022lionelscaloni",
+         "name":"Lionel Scaloni",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022marcosacuna",
+         "name":"Marcos Acuña",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nahuelmolina",
+         "name":"Nahuel Molina",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"worldcup2022nicolasotamendi",
+         "name":"Nicolas Otamendi",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022nicolastagliafico",
+         "name":"Nicolas Tagliafico",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"worldcup2022papugomez",
+         "name":"Papu Gomez",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022paulodybala",
+         "name":"Paulo Dybala",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2022rodrigodepaul",
+         "name":"Rodrigo de Paul",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2022w1",
+         "name":"Boca Campeón LPF 2022",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2022f27d2",
+         "name":"Fecha 27 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f27d1",
+         "name":"Fecha 27 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f23d5",
+         "name":"Gimnasia vs Boca",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f26d3",
+         "name":"Fecha 26 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f26d2",
+         "name":"Fecha 26 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2022f26d1",
+         "name":"Fecha 26 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"gallardoadios1",
+         "name":"Adiós Gallardo",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2022f25d3",
+         "name":"Fecha 25 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2022f25d2",
+         "name":"Fecha 25 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2022f25d1",
+         "name":"Fecha 25 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f24d3",
+         "name":"Fecha 24 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f24d2",
+         "name":"Fecha 24 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f24d1",
+         "name":"Fecha 24 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f23d2",
+         "name":"Fecha 23 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f23d1",
+         "name":"Fecha 23 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"gonzalohiguain1",
+         "name":"Gonzalo Higuain",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f22d3",
+         "name":"Fecha 22 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f22d2",
+         "name":"Fecha 22 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f22d1",
+         "name":"Fecha 22 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"diahinchariver",
+         "name":"Día del Hincha River",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"lpf2022f21d4",
+         "name":"Fecha 21 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2022f21d3",
+         "name":"Fecha 21 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f21d2",
+         "name":"Fecha 21 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f21d1",
+         "name":"Fecha 21 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2022f20d4",
+         "name":"Fecha 20 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f20d3",
+         "name":"Fecha 20 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f20d2",
+         "name":"Fecha 20 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f20d1",
+         "name":"Fecha 20 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2022f19d3",
+         "name":"Fecha 19 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f19d2",
+         "name":"Fecha 19 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f19d1",
+         "name":"Fecha 19 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f18d4",
+         "name":"Fecha 18 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f18d3",
+         "name":"Fecha 18 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f18d2",
+         "name":"Fecha 18 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2022f18d1",
+         "name":"Fecha 18 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f17d3",
+         "name":"Fecha 17 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2022f17d2",
+         "name":"Fecha 17 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f17d1",
+         "name":"Fecha 17 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f16d3",
+         "name":"Fecha 16 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f16d2",
+         "name":"Fecha 16 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f16d1",
+         "name":"Fecha 16 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"lpf2022f15d4",
+         "name":"Fecha 15 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f15d3",
+         "name":"Fecha 15 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f15d2",
+         "name":"Fecha 15 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f15d1",
+         "name":"Fecha 15 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2022f14d3",
+         "name":"Fecha 14 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f14d2",
+         "name":"Fecha 14 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f14d1",
+         "name":"Fecha 14 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f13d4",
+         "name":"Fecha 13 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f13d3",
+         "name":"Fecha 13 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f13d2",
+         "name":"Fecha 13 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f13d1",
+         "name":"Fecha 13 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2022f12d4",
+         "name":"Fecha 12 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f12d3",
+         "name":"Fecha 12 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f12d2",
+         "name":"Fecha 12 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f12d1",
+         "name":"Fecha 12 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2022f11d3",
+         "name":"Fecha 11 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2022f11d2",
+         "name":"Fecha 11 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f11d1",
+         "name":"Fecha 11 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2022f10d4",
+         "name":"Fecha 10 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2022f10d3",
+         "name":"Fecha 10 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f10d2",
+         "name":"Fecha 10 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f10d1",
+         "name":"Fecha 10 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2022f9d3",
+         "name":"Fecha 9 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f9d2",
+         "name":"Fecha 9 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f9d1",
+         "name":"Fecha 9 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f8d3",
+         "name":"Fecha 8 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2022f8d2",
+         "name":"Fecha 8 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f8d1",
+         "name":"Fecha 8 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"copaargentina2022f16a",
+         "name":"River vs Barracas",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"lpf2022f7d3",
+         "name":"Fecha 7 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2022f7d2",
+         "name":"Fecha 7 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f7d1",
+         "name":"Fecha 7 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f6d4",
+         "name":"Fecha 6 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f6d3",
+         "name":"Fecha 6 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f6d2",
+         "name":"Fecha 6 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2022f6d1",
+         "name":"Fecha 6 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"lpf2022f5d4",
+         "name":"Fecha 5 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f5d3",
+         "name":"Fecha 5 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"lpf2022f5d2",
+         "name":"Fecha 5 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f5d1",
+         "name":"Fecha 5 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2022f4d4",
+         "name":"Fecha 4 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"lpf2022f4d3",
+         "name":"Fecha 4 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f4d2",
+         "name":"Fecha 4 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f4d1",
+         "name":"Fecha 4 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2022f3d3",
+         "name":"Fecha 3 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f3d2",
+         "name":"Fecha 3 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f3d1",
+         "name":"Fecha 3 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f2d3",
+         "name":"Fecha 2 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f2d2",
+         "name":"Fecha 2 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2022f2d1",
+         "name":"Fecha 2 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2022f1d3",
+         "name":"Fecha 1 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2022f1d2",
+         "name":"Fecha 1 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"seleccion2022a",
+         "name":"vs Estonia",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"lpf2022f1d1",
+         "name":"Fecha 1 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"finalissima1",
+         "name":"Finalissima (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"finalissima2",
+         "name":"Finalissima (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022w1",
+         "name":"Boca Campeón 2021",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1",
+         "name":"Boca vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022sf2",
+         "name":"Tigre vs Argentinos",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"copaligaprofesional2022sf1",
+         "name":"Boca vs Racing",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copaligaprofesional2022cf4",
+         "name":"River vs Tigre",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022cf3",
+         "name":"Estudiantes vs Argentinos",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"copaligaprofesional2022cf2",
+         "name":"Boca vs Defensa",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaligaprofesional2022cf1",
+         "name":"Racing vs Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaligaprofesional2022f14d4",
+         "name":"Fecha 14 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f14d3",
+         "name":"Fecha 14 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"marcoruben1",
+         "name":"Marco Ruben",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f14d2",
+         "name":"Fecha 14 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f14d1",
+         "name":"Fecha 14 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"copaligaprofesional2022f13d3",
+         "name":"Fecha 13 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f13d2",
+         "name":"Fecha 13 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f13d1",
+         "name":"Fecha 13 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f12d3",
+         "name":"Fecha 12 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"copaligaprofesional2022f12d2",
+         "name":"Fecha 12 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f12d1",
+         "name":"Fecha 12 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f11d3",
+         "name":"Fecha 11 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"copaligaprofesional2022f11d2",
+         "name":"Fecha 11 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f11d1",
+         "name":"Fecha 11 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f10d3",
+         "name":"Fecha 10 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"enzofernandez1",
+         "name":"Enzo Fernandez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f10d2",
+         "name":"Fecha 10 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f10d1",
+         "name":"Fecha 10 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f9d4",
+         "name":"Fecha 9 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"copaligaprofesional2022f9d3",
+         "name":"Fecha 9 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f9d2",
+         "name":"Fecha 9 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f9d1",
+         "name":"Fecha 9 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f8d4",
+         "name":"Fecha 8 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"copaligaprofesional2022f8d3",
+         "name":"Fecha 8 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f8d2",
+         "name":"Fecha 8 Dia 2",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"qatar2022a",
+         "name":"Sorteo Mundial",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"colon2022",
+         "name":"Colon 2022",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"gimnasialp2021",
+         "name":"Gimnasia LP 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"huracan2022",
+         "name":"Huracan 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"platense2022",
+         "name":"Platense 2022",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"tigre2022",
+         "name":"Tigre 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"velez2022",
+         "name":"Velez 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"eliminatoriasqatarf18",
+         "name":"Eliminatorias F18",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"eliminatoriasqatarf17",
+         "name":"Eliminatorias F17",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"arsenal2022",
+         "name":"Arsenal 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"atleticotucuman2022",
+         "name":"Atletico Tucuman 2022",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"barracascentral2022a",
+         "name":"Barracas Central 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"barracascentral2022b",
+         "name":"Barracas Central 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lanus2022",
+         "name":"Lanus 2022",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"patronato2022",
+         "name":"Patronato 2022",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"copaligaprofesional2022f7d5",
+         "name":"Fecha 7 Día 5",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"copaligaprofesional2022f7d4",
+         "name":"Fecha 7 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"copaligaprofesional2022f7d3",
+         "name":"Fecha 7 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaligaprofesional2022f7d2",
+         "name":"Fecha 7 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f7d1",
+         "name":"Fecha 7 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"argentinosjuniors2022",
+         "name":"Argentinos Jrs 2022",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"banfield2022",
+         "name":"Banfield 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"defensayjusticia2022",
+         "name":"Defensa y Justicia 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"godoycruz2022a",
+         "name":"Godoy Cruz 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"godoycruz2022b",
+         "name":"Godoy Cruz 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"newells2022",
+         "name":"Newells Old Boys 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"racing2022a",
+         "name":"Racing Club 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"racing2022b",
+         "name":"Racing Club 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"sarmiento2022",
+         "name":"Sarmiento 2022",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"talleres2022a",
+         "name":"Talleres 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"talleres2022b",
+         "name":"Talleres 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"union2022",
+         "name":"Union 2022",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"copaligaprofesional2022f6d4",
+         "name":"Fecha 6 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"copaligaprofesional2022f6d3",
+         "name":"Fecha 6 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f6d2",
+         "name":"Fecha 6 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f6d1",
+         "name":"Fecha 6 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"aldosivi2022a",
+         "name":"Aldosivi 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"aldosivi2022b",
+         "name":"Aldosivi 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"bocajuniors2022",
+         "name":"Boca Juniors 2022",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"estudiantes2022a",
+         "name":"Estudiantes 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"estudiantes2022b",
+         "name":"Estudiantes 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"independiente2022",
+         "name":"Independiente 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"riverplate2022",
+         "name":"River Plate 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"rosariocentral2022",
+         "name":"Rosario Central 2022",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"sanlorenzo2022a",
+         "name":"San Lorenzo 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"sanlorenzo2022b",
+         "name":"San Lorenzo 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaligaprofesional2022f5d5",
+         "name":"Fecha 5 Día 5",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"copaligaprofesional2022f5d4",
+         "name":"Fecha 5 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"copaligaprofesional2022f5d3",
+         "name":"Fecha 5 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f5d2",
+         "name":"Fecha 5 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"copaligaprofesional2022f5d1",
+         "name":"Fecha 5 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"copaligaprofesional2022f4d4",
+         "name":"Fecha 4 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"copaligaprofesional2022f4d3",
+         "name":"Fecha 4 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"copaligaprofesional2022f4d2",
+         "name":"Fecha 4 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f4d1",
+         "name":"Fecha 4 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"copaligaprofesional2022f3d4",
+         "name":"Fecha 3 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"copaligaprofesional2022f3d3",
+         "name":"Fecha 3 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f3d2c",
+         "name":"Fecha 3 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"copaligaprofesional2022f3d1",
+         "name":"Fecha 3 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"copaligaprofesional2022f2d3",
+         "name":"Fecha 2 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"copaligaprofesional2022f2d2",
+         "name":"Fecha 2 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f2d1",
+         "name":"Fecha 2 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1d4",
+         "name":"Fecha 1 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1d3",
+         "name":"Fecha 1 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1d2",
+         "name":"Fecha 1 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"copaligaprofesional2022f1d1",
+         "name":"Fecha 1 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"eliminatoriasqatarf16",
+         "name":"Eliminatorias F16",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"eliminatoriasqatarf15",
+         "name":"Eliminatorias F15",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"navidadclubes1",
+         "name":"Navidad (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"navidadclubes2",
+         "name":"Navidad (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"torneocampeones2021a",
+         "name":"River Campeón (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"torneocampeones2021b",
+         "name":"River Campeón (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"lpf2021f25d3",
+         "name":"Fecha 25 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2021f25d2",
+         "name":"Fecha 25 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f25d1",
+         "name":"Fecha 25 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"cantitosatleticotucuman",
+         "name":"Cantitos Atl. Tucuman",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosarsenal",
+         "name":"Cantitos Arsenal",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosplatense",
+         "name":"Cantitos Platense",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitoscentralcordoba",
+         "name":"Cantitos Central Cordoba",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosnewells",
+         "name":"Cantitos Newells",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitospatronato",
+         "name":"Cantitos Patronato",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitossarmiento",
+         "name":"Cantitos Sarmiento",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosbanfield",
+         "name":"Cantitos Banfield",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"copaargentina2021w1",
+         "name":"Boca Campeón",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"copaargentina2021f1",
+         "name":"Boca vs Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"cantitosargentinos",
+         "name":"Cantitos Argentinos Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgimnasialp",
+         "name":"Cantitos Gimnasia LP",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosgodoycruz",
+         "name":"Cantitos Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosrosariocentral",
+         "name":"Cantitos Rosario Central",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f24d4",
+         "name":"Fecha 24 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"cantitoslanus",
+         "name":"Cantitos Lanus",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitoshuracan",
+         "name":"Cantitos Huracan",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f24d3",
+         "name":"Fecha 24 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f24d2",
+         "name":"Fecha 24 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f24d1",
+         "name":"Fecha 24 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"cantitosestuDíanteslp",
+         "name":"Cantitos EstuDíants LP",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosdefensayjusticia",
+         "name":"Cantitos Defensa y Justicia",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosaldosivi",
+         "name":"Cantitos Aldosivi",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitostalleres",
+         "name":"Cantitos Talleres",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"copaargentina2021s2",
+         "name":"Talleres vs Godoy Cruz",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"cantitosindependiente",
+         "name":"Cantitos Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosvelez",
+         "name":"Cantitos Velez",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"lpf2021f23d4",
+         "name":"Fecha 23 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"cantitossanlorenzo",
+         "name":"Cantitos San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosbocajuniors",
+         "name":"Cantitos Boca Jrs",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"Díahinchadesanlorenzo",
+         "name":"Hincha San Lorenzo",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2021f23d3",
+         "name":"Fecha 23 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"cantitosriverplate",
+         "name":"Cantitos River",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"cantitosracingclub",
+         "name":"Cantitos Racing",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"messiballondor2021",
+         "name":"Balon de Oro 2021",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"lpf2021f23d2",
+         "name":"Fecha 23 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"cantitoscolon",
+         "name":"Cantitos Colon",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"cantitosunion",
+         "name":"Cantitos Union",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f23d1",
+         "name":"Fecha 23 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"lpf2021c1",
+         "name":"River Campeon 2021",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"lpf2021f22d3",
+         "name":"Fecha 22 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"lpf2021f22d2",
+         "name":"Fecha 22 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"lpf2021f22a2",
+         "name":"Fecha 22 Animados 2",
+         "animated_sticker_pack":true,
+         "stickers":"8"
+      },
+      {
+         "identifier":"lpf2021f22d1",
+         "name":"Fecha 22 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f22a1",
+         "name":"Fecha 22 Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"17"
+      },
+      {
+         "identifier":"idolosracing1b",
+         "name":"Idolos Racing",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2021f21a1",
+         "name":"Fecha 21 Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2021f21a2",
+         "name":"Fecha 21 Animados 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"lpf2021f21d4",
+         "name":"Fecha 21 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f21d3",
+         "name":"Fecha 21 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"lpf2021f21d2",
+         "name":"Fecha 21 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"lpf2021f21d1",
+         "name":"Fecha 21 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"idolosindependiente1",
+         "name":"Idolos Independiente",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"eliminatoriasqatarf14",
+         "name":"Eliminatorias F14",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eliminatoriasqatarf13b",
+         "name":"Eliminatorias F13",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f20d4",
+         "name":"Fecha 20 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"gol2021a1",
+         "name":"Gol Animado (1)",
+         "animated_sticker_pack":true,
+         "stickers":"27"
+      },
+      {
+         "identifier":"gol2021a2",
+         "name":"Gol Animado (2)",
+         "animated_sticker_pack":true,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2021f20d3",
+         "name":"Fecha 20 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"lpf2021f20d2",
+         "name":"Fecha 20 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"lpf2021f20d1",
+         "name":"Fecha 20 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"copaargentina2021s1",
+         "name":"Boca vs Argentinos",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"lpf2021f19d4",
+         "name":"Fecha 19 Día 4",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"lpf2021f19d3",
+         "name":"Fecha 19 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"lpf2021f19d2",
+         "name":"Fecha 19 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"lpf2021f19d1",
+         "name":"Fecha 19 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"sebastianvilla",
+         "name":"Sebastian Villa",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pauloDíaz",
+         "name":"Paulo Díaz",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2021f18d3",
+         "name":"Fecha 18 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f18d2",
+         "name":"Fecha 18 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f18d1",
+         "name":"Fecha 18 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"julianalvarez",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lpf2021f17d3",
+         "name":"Fecha 17 Día 3",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"lpf2021f17d2",
+         "name":"Fecha 17 Día 2",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lpf2021f17d1",
+         "name":"Fecha 17 Día 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"carlosizquierdoz",
+         "name":"Carlos Izquierdoz",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"enzoperez",
+         "name":"Enzo Perez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"josesand",
+         "name":"Jose Sand",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"lichalopez",
+         "name":"Licha Lopez",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"nestorortigoza",
+         "name":"Nestor Ortigoza",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"silvioromero",
+         "name":"Silvio Romero",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eliminatoriasqatarf12b",
+         "name":"Eliminatorias F12",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"eliminatoriasqatarf5",
+         "name":"Eliminatorias F5",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"eliminatoriasqatarf11",
+         "name":"Eliminatorias F11",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"aldosivi2021",
+         "name":"Aldosivi 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"atleticotucuman2021",
+         "name":"Atletico Tucuman 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"banfield2021",
+         "name":"Banfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"bocajuniors2021",
+         "name":"Boca Juniors 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"defensayjusticia2021",
+         "name":"Defensa y Justicia 2021",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"estuDíanteslp2021",
+         "name":"EstuDíantes LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"estuDíanteslp2021",
+         "name":"EstuDíantes LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"gimnasialp2021",
+         "name":"Gimnasia LP 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"godoycruz2021",
+         "name":"Godoy Cruz 2021",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"independiente2021",
+         "name":"Independiente 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"newells2021",
+         "name":"Newells Old Boys 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"platense2021",
+         "name":"Platense 2021",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"racingclub2021",
+         "name":"Racing Club 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"riverplate2021",
+         "name":"River Plate 2021",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"rosariocentral2021",
+         "name":"Rosario Central 2021",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"sanlorenzo2021",
+         "name":"San Lorenzo 2021",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"talleres2021",
+         "name":"Talleres 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"velez2021",
+         "name":"Velez Sarsfield 2021",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"argentina2021a",
+         "name":"Argentina 2021 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"argentina2021b",
+         "name":"Argentina 2021 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"argentina2021c",
+         "name":"Argentina 2021 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"argentina2021d",
+         "name":"Argentina 2021 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"argentina2021e",
+         "name":"Argentina 2021 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"papugomez",
+         "name":"Papu Gomez",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"bocajuniors2020",
+         "name":"Boca Juniors 2020",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"colon2020",
+         "name":"Colon 2020",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"estuDíanteslp2020",
+         "name":"EstuDíantes LP 2020",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"gimnasialp2020",
+         "name":"Gimnasia LP 2020",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"huracan2020",
+         "name":"Huracan 2020",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"independiente2020",
+         "name":"Independiente 2020",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"newells2020",
+         "name":"Newells Old Boys 2020",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"racingclub2020",
+         "name":"Racing Club 2020",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"riverplate2020",
+         "name":"River Plate",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"rosariocentral2020",
+         "name":"Rosario Central 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"sanlorenzo2020",
+         "name":"San Lorenzo 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"union2020",
+         "name":"Union 2020",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"velez2020",
+         "name":"Velez Sarsfield 2020",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      }
+   ]
+}
